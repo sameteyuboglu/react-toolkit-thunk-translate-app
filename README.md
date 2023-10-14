@@ -1,0 +1,1 @@
+# react-toolkit-thunk-translate-app
